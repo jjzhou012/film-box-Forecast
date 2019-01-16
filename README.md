@@ -10,3 +10,10 @@ film box Forecast using multiple linear regression
 - Final box office.
 - First week box office.
 
+## run test file
+### input
+- Modeling dataset
+- Forecast dataset
+- Forecast target
+ - box
+ - firbox
