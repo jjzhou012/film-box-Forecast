@@ -15,5 +15,6 @@ film box Forecast using multiple linear regression
 - Modeling dataset
 - Forecast dataset
 - Forecast target
+  - box
  - box
  - firbox
